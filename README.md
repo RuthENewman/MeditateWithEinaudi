@@ -1,4 +1,4 @@
-# MeditateWithEinaudi
+# MeditateWithEinaudi - https://ruthenewman.github.io/MeditateWithEinaudi/
 Day 3 of challenge to build 30 vanilla JS projects over 30 days (meditation app with timer, video and music)
 
 A vanilla JS project with three primary files (index.html, index.js and style.css), as well as svg files for the play and pause
